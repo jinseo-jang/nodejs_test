@@ -1,0 +1,11 @@
+{
+    "name": "jinseo-webserver",
+    "version": "0.0.1",
+    "description": "A NodeJS webserver to run inside a docker container",
+    "main": "app.js",
+    "author": "jinseo.jang@gmail.com",
+    "license": "wkdjj",
+    "dependencies": {
+        "express": "^4.16.2"
+    }
+}
