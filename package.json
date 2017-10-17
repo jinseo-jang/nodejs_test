@@ -6,6 +6,6 @@
     "author": "jinseo.jang@gmail.com",
     "license": "wkdjj",
     "dependencies": {
-        "express": "^4.16.2"
+        "express": "*"
     }
 }
