@@ -4,7 +4,7 @@
     "description": "A NodeJS webserver to run inside a docker container",
     "main": "app.js",
     "author": "jinseo.jang@gmail.com",
-    "license": "wkdjj",
+    "license": "MIT",
     "dependencies": {
         "express": "*"
     }
